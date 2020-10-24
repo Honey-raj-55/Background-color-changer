@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+
+h1 {
+    font-family: 'Architects Daughter', cursive;
+    font-size: 40pt;
+}
+
+body {
+    background-color: salmon;
+}
+
+ul {
+  font-family: 'Architects Daughter', cursive;
+  font-size: 30px;
+  padding-bottom: 25%;
+}
+
+button {
+  margin: 30px auto 0;
+  padding: 20px 25px;
+  background-color: #F69680;
+  color: #2E1263;
+  font-family: 'Caveat', cursive;;
+  font-size: 20px;
+  text-align: center;
+  border: 1px solid #2E1263;
+  text-transform: uppercase;
+  text-decoration: none;
+  letter-spacing: 4px;
+  outline: none;
+}
+
+button:hover {
+  transition: 0.8s;
+  background-color: #2E1263;
+  color: #F69680;
+  text-decoration: underline;
+}
+
+  
+  
