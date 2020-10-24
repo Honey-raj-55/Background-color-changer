@@ -1,3 +1,3 @@
 # Background Color Changer
 
-Background color changes wheneverr the Button is clicked.
+Background color changes whenever the Button is clicked.
