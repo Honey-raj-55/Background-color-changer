@@ -1,16 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
 
 h1 {
-    font-family: 'Architects Daughter', cursive;
-    font-size: 40pt;
+  font-family: 'Bungee Spice', cursive;
+  font-size: 50px;
 }
 
 body {
-    background-color: red;
+    background-color: rgb(36, 36, 36);
 }
 
 ul {
-  font-family: 'Architects Daughter', cursive;
+  font-family: 'Noto Sans', sans-serif;
+  color: #d3cfab;
   font-size: 24px;
   padding-bottom: 15%;
 }
@@ -18,12 +19,12 @@ ul {
 button {
   margin: 30px auto 0;
   padding: 20px 25px;
-  background-color: #F69680;
-  color: #2E1263;
+  background-color: #979696;
+  color: #524133;
   font-family: 'Caveat', cursive;;
-  font-size: 20px;
+  font-size: 25px;
   text-align: center;
-  border: 1px solid #2E1263;
+  border: 1px solid #524133;
   text-transform: uppercase;
   text-decoration: none;
   letter-spacing: 4px;
@@ -32,7 +33,7 @@ button {
 
 button:hover {
   transition: 0.8s;
-  background-color: #2E1263;
+  background-color: #5b5861;
   color: #F69680;
   text-decoration: underline;
 }
