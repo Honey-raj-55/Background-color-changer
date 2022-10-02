@@ -31,7 +31,7 @@ button {
 }
 
 button:hover {
-  transition: 0.8s;
+  transition: 1s;
   background-color: #2E1263;
   color: #F69680;
   text-decoration: underline;
